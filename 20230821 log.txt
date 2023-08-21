@@ -1,0 +1,1767 @@
+[vrserver] watchdogs enabled
+CSharedResourceNamespaceServer starting up
+WaitNamedPipe SteamVR_Namespace failed because no one is listening at that name.
+CSharedResourceNamespaceClient::Init(): failed connect
+CSharedResourceNamespaceClient::Init(): still waiting for vrserver to reply with namespace data
+Set thread FFFFFFFFFFFFFFFE priority to: 1
+Set thread FFFFFFFFFFFFFFFE priority to: -15
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Closing pipe SteamVR_Namespace because it was broken from the other end
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Self queried namespace: 16992
+[Init] VR server 1.26.7 (v1690491041) starting up with config=C:\Program Files (x86)\Steam\config
+[Init] VRServer will wait for VRMonitor before exiting
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+[Remapping] Loading automap templates.
+[Controller Setup] Adding controller type vive
+[Controller Setup] Adding controller type rift
+[Controller Setup] Adding controller type indexhmd
+[Controller Setup] CreateHMDControllerTypeFromPathIfDriverPresent failed. Not creating controller type '{holographic}/input/mixedreality_hmd_profile.json' because driver 'holographic' isn't present.
+[Remapping] Setting up device remapping for controller type: vive_controller.
+[Controller Setup] Adding controller type vive_controller
+[Remapping] Setting up device remapping for controller type: oculus_touch.
+[Controller Setup] Adding controller type oculus_touch
+[Remapping] Setting up device remapping for controller type: knuckles.
+[Controller Setup] Adding controller type knuckles
+[Controller Setup] CreateControllerTypeFromPathIfDriverPresent failed. Not creating controller type '{holographic}/input/mixedreality_controller_profile.json' because driver 'holographic' isn't present.
+[Controller Setup] CreateControllerTypeFromPathIfDriverPresent failed. Not creating controller type '{holographic}/input/mixedreality_hpcontroller_profile.json' because driver 'holographic' isn't present.
+[Controller Setup] Adding controller type khr_simple_controller
+[Controller Setup] Adding controller type gamepad
+Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Web language is koreana
+[Web] Starting web server on port 27062
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-black-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-black-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-black.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-bold-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-bold.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-extrabold-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-extrabold.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-light-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-light.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-medium-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-medium.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-regular-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-regular.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-thin-italic.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans-thin.ttf.
+Caching webfont C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\webinterface\fonts\motiva-sans.ttf.
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrstartup.exe (VRApplication_Bootstrapper) (Args: ) 16584 
+Creating Builtin AppInfo for C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrstartup.exe (VRApplication_Bootstrapper). steam.overlay.250820, , 16584
+AppInfoManager.ProcessConnected BEGIN 16584 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrstartup.exe 7 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=16584, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 16584
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+viveVR: Version : 1.0.4.65
+viveVR: Path : C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR, 1
+viveVR: Run VIVE Software install
+AUDIO: Refreshing audio devices
+AUDIO: Detected 10 playback and 7 record devices
+[Steam] Steam INIT.
+viveVR: ViveVR init internal spend 4.570065 seconds
+viveVR: Display mode (1, 0)
+viveVR: New device SN 8ba42dcb347b
+viveVR: Init add device = 0, class = 5
+Driver 'viveVR' started activation of tracked device with serial number '8ba42dcb347b'
+viveVR: Pose setting is 0
+viveVR: Init pose setting [1, 0]
+viveVR: Camera setting is 0
+  driver viveVR implements interfaces IVRSettings_003 ITrackedDeviceServerDriver_005 IVRDisplayComponent_002 IVRDriverDirectModeComponent_007 IVRCameraComponent_003 IServerTrackedDeviceProvider_004 IVRWatchdogProvider_001 IVRVirtualDisplay_002 IVRDriverManager_001 IVRResources_001 IVRCompositorPluginProvider_001 
+Loaded server driver viveVR (IServerTrackedDeviceProvider_004) from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\bin\win64\driver_viveVR.dll
+viveVR: Activate=1 class=5 system=5 prop=4294967297
+viveVR: Model number = ViveLH
+viveVR: Manufacturer number = 
+viveVR: Vsync to photon time: 0.011111 + 0.000000
+viveVR: Add predict time 0.000000
+viveVR: Set Prop_HasDriverDirectModeComponent_Bool true
+viveVR: Set Audio playback {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+viveVR: Set Audio record {0.0.1.00000000}.{d718a8b6-49bb-4bcd-ac46-020c102fc299}
+viveVR: Set GraphicsAdapterLuid 2372243
+viveVR: Activate DisplayRedirect spend 4.573166 seconsd from init
+viveVR: GetComponent IVRDisplayComponent_002
+viveVR: GetComponent IVRDriverDirectModeComponent_007
+viveVR: GetComponent IVRCameraComponent_003
+viveVR: GetComponent IVRVirtualDisplay_002
+[Controller Setup] Failed to load input profile for device: Unable to figure out controller type for device 4294967297
+[Controller Setup] CreateOrUpdateControllerType failed. Input profile somehow got through OnDeviceActivated with no controller type
+
+ {
+   "controller_type" : "",
+   "device_class" : "TrackedDeviceClass_DisplayRedirect",
+   "driver_name" : "vive_lh",
+   "input_bindingui_left" : {
+      "image" : "input/generic_controller.png"
+   },
+   "input_bindingui_mode" : "controller_handed",
+   "input_bindingui_right" : {
+      "image" : "input/generic_controller.png"
+   },
+   "input_source" : null,
+   "interaction_profile" : "",
+   "priority" : 20,
+   "resource_root" : "vive_lh",
+   "visibility" : "InputValueVisibility_None"
+}
+viveVR: GetComponent IVRControllerComponent_001
+Driver 'viveVR' finished adding tracked device with serial number '8ba42dcb347b'
+lighthouse: version 1.26.7
+lighthouse: [DepthAugmentedPassthrough] supported on this system: 1
+lighthouse: [DepthAugmentedPassthrough] : Object is created 
+lighthouse: Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+lighthouse: Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+lighthouse: Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+lighthouse: Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+lighthouse: Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+lighthouse: Attached HID Devices:
+lighthouse:     28DE, 2101: s/n 48847361FA: Watchman Dongle (interface 0)
+lighthouse:     28DE, 2101: s/n E092A073AF: Watchman Dongle (interface 0)
+lighthouse:     28DE, 2300: s/n LHR-F66FF9D7: IMU (interface 0)
+lighthouse:     28DE, 2300: s/n LHR-F66FF9D7: Optical (interface 1)
+lighthouse:     28DE, 2300: s/n LHR-F66FF9D7: Controller (interface 2)
+lighthouse:     BB4, 342: s/n 204B39905846: VIVE Pro 2 (interface 0)
+lighthouse:     BB4, 30B: s/n \\?\hid#vid_0bb4&pid_030b&mi_03#c&34900a10&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}: VIVE Pro Mutimedia Audio (interface 3)
+lighthouse: Attempting HID Open IMU: 48847361FA
+lighthouse: Lighthouse IMU HID opened
+lighthouse: Attempting HID Open IMU: E092A073AF
+lighthouse: Lighthouse IMU HID opened
+lighthouse: LHR-F66FF9D7: Read config of 3745 bytes from [vid:28de, pid:2300] (LHR-F66FF9D7) and inflated to 11912 bytes
+lighthouse: HMD Model: ?
+lighthouse: LHR-F66FF9D7: Applying scale 1.0028 from reference object lighthouse/Vive Pro HMD
+lighthouse: Parsing LighthouseDB from file C:\Program Files (x86)\Steam\config\lighthouse\lighthousedb.json
+lighthouse: Successfully parsed Lighthouse DB rev 5 from C:\Program Files (x86)\Steam\config\lighthouse\lighthousedb.json
+lighthouse: LHR-F66FF9D7 H: Source: auto disambiguator (right sync) -- Preferred basestation 00000000
+lighthouse: RecommendedRenderTargetSize: 1440, 1600 (viewport 2016, 2240 scaled by 1.40)
+lighthouse: Attempting HID Open IMU: LHR-F66FF9D7
+lighthouse: Lighthouse IMU HID opened
+lighthouse: LHR-F66FF9D7: Firmware Version 1526689969 watchman@runner-watchman 2018-05-19 FPGA 531(2.19/7/2) BL 1526603673
+lighthouse: LHR-F66FF9D7: Successfully fetched gyro/accelerometer range modes from the device. GyroRangeMode:1 AccelRangeMode:1
+lighthouse: Attempting HID Open Optical: LHR-F66FF9D7
+lighthouse: Lighthouse Optical HID opened
+lighthouse: Attempting HID Open VrController: LHR-F66FF9D7
+lighthouse: Lighthouse VrController HID opened
+lighthouse: TrackedCamera: OpenCamera()
+lighthouse: TrackedCamera: Expecting drivers at 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\bin\win64'
+lighthouse: TrackedCamera: Found Dual Cameras at USB VID:0BB4, USB PID:030C
+lighthouse: CAMCMD_GET_OPENCAMERA_RESULT
+lighthouse: InitTrackedCamera(): Opened tracked camera on (LHR-F66FF9D7). Compatibility Mode:9. Version: 03.01.1B3 Date: 2018.Jan.11
+lighthouse: InitTrackedCamera(): Disabling camera on (LHR-F66FF9D7) due to vr settings. Camera services restricted.
+Driver 'lighthouse' started activation of tracked device with serial number 'LHR-F66FF9D7'
+  driver lighthouse implements interfaces IVRSettings_003 ITrackedDeviceServerDriver_005 IVRDisplayComponent_002 IVRDriverDirectModeComponent_008 IVRCameraComponent_003 IServerTrackedDeviceProvider_004 IVRWatchdogProvider_001 IVRVirtualDisplay_002 IVRDriverManager_001 IVRResources_001 IVRCompositorPluginProvider_001 
+Loaded server driver lighthouse (IServerTrackedDeviceProvider_004) from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\bin\win64\driver_lighthouse.dll
+lighthouse: Setting Edid VendorID D222 and product ID AA02 from json
+lighthouse: Expected MC Images:
+lighthouse:     C:\Program Files (x86)\Steam\config\lighthouse\lhr-f66ff9d7\userdata\Green_4MVA116M002844_mura_analyzes.mc
+lighthouse:     C:\Program Files (x86)\Steam\config\lighthouse\lhr-f66ff9d7\userdata\Green_4MTA116M003549_mura_analyzes.mc
+lighthouse: Unable to query MC Image size
+lighthouse: Not generating hidden area meshes for unknown hidden area mode 0
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect Start, primary: tdm, alt: framer.  SensorType 6
+Using display redirect device id=1 for driver direct mode.
+- Display redirect implements display component.
+Active HMD set to lighthouse.LHR-F66FF9D7
+Using display adapter luid: 2372243
+viveVR: Adjust beat saber scale 0.117605
+viveVR: GetRecommendedRenderTargetSize 5832, 5832
+viveVR: GetProjectionRaw [0][-1.620096,0.834869,-1.114783,1.125868]
+viveVR: GetProjectionRaw [1][-0.837262,1.629941,-1.138323,1.111420]
+Set thread 0000000000000F28 priority to: 15
+[Controller Setup] Adding controller type vive_pro
+Driver 'lighthouse' finished adding tracked device with serial number 'LHR-F66FF9D7'
+DXGI thread failed to get SDL display index
+  driver gamepad implements interfaces IVRSettings_003 ITrackedDeviceServerDriver_005 IVRDisplayComponent_002 IVRDriverDirectModeComponent_008 IVRCameraComponent_003 IServerTrackedDeviceProvider_004 IVRWatchdogProvider_001 IVRVirtualDisplay_002 IVRDriverManager_001 IVRResources_001 IVRCompositorPluginProvider_001 
+Loaded server driver gamepad (IServerTrackedDeviceProvider_004) from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\gamepad\bin\win64\driver_gamepad.dll
+[Remapping] Setting up device remapping for controller type: knuckles.
+[Remapping] Parsing remapping data succeeded for controller type: knuckles.
+[Remapping] Setting up device remapping for controller type: oculus_touch.
+[Remapping] Parsing remapping data succeeded for controller type: oculus_touch.
+[Remapping] Setting up device remapping for controller type: vive_controller.
+[Remapping] Parsing remapping data succeeded for controller type: vive_controller.
+Processing message VRMsg_Connect from 16584: vrstartup took 5.44 seconds
+viveVR: CreateBooleanComponent system error:0
+viveVR: CreateBooleanComponent proximity error:0
+viveVR: CreateBooleanComponent volume up error:0
+viveVR: CreateBooleanComponent volume down error:0
+viveVR: CreateBooleanComponent mute mic error:0
+viveVR: Event set Audio playback {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+viveVR: Event set Audio record {0.0.1.00000000}.{d718a8b6-49bb-4bcd-ac46-020c102fc299}
+viveVR: Event activeate device = 0
+viveVR: Force wake up HMD
+viveVR: Set m_bGetPoseFlag true 1
+viveVR: [Warning] Pose may not ready
+viveVR: Pose state connect: 1, valid:0
+lighthouse: Looking for default audio playback device matching VID:0bb4/PID:030b VIVE Pro Mutimedia Audio
+lighthouse: Found default audio playback device 스피커(VIVE Pro Mutimedia Audio), VID:0bb4/PID:030b {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+lighthouse: Looking for default audio recording device matching VID:0bb4/PID:030b VIVE Pro Mutimedia Audio
+lighthouse: Found default audio recording device 마이크(VIVE Pro Mutimedia Audio), VID:0bb4/PID:030b {0.0.1.00000000}.{d718a8b6-49bb-4bcd-ac46-020c102fc299}
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+[Settings] Save Json Settings to C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Setting default audio playback endpoint (console) to {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+AUDIO: SetDefaultAudioDevice: device = {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}, role = 0
+AUDIO: AudioDeviceChangeNotice (noting refresh): 4, device = {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+AUDIO: OnDefaultDeviceChanged: flow = eRender, role = eConsole, device = {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+AUDIO: AudioDeviceChangeNotice (noting refresh): 4, device = {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+AUDIO: OnDefaultDeviceChanged: flow = eRender, role = eMultimedia, device = {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+AUDIO: Refreshing audio devices
+AUDIO: Detected 10 playback and 7 record devices
+lighthouse: LHR-F66FF9D7 H: Saw demod rate 1133/s, enabling Sync on Beam
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+lighthouse: 48847361FA: Triggered keepalive (succeeded)
+lighthouse: E092A073AF: Triggered keepalive (succeeded)
+viveVR: Update device status pose
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+lighthouse: LHR-F66FF9D7 H: Saw demod rate 1129/s, enabling Sync on Beam
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+VR compositor 1.26.7 (v1690491041) Mixed starting up
+vrclient type=VRApplication_Background
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Closing pipe SteamVR_Namespace because it was broken from the other end
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrcompositor.exe (VRApplication_Background) (Args: ) 10308 
+AppInfoManager.ProcessConnected BEGIN 10308 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrcompositor.exe 3 openvr.component.vrcompositor
+SetApplicationPid appkey=openvr.component.vrcompositor pid=10308, external transition
+SetApplicationPid: Setting app openvr.component.vrcompositor PID to 10308
+AppInfoManager.ProcessConnected END
+[Input] openvr.component.vrcompositor (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/vrcompositor_bindings_vive_pro.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 10308: vrcompositor took 0.00518 seconds
+Received success response from vrserver connect
+App key after connect message:openvr.component.vrcompositor
+Initializing the limited version of CVRCompositorClient
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Events created
+Found bad mirror window settings: 
+CGraphicsDevice Init...
+Headset is using driver direct mode
+Couldn't find action /actions/system/in/showpowermenu. Ignoring it.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\vrcompositor_bindings_vive_pro.json' for app 'openvr.component.vrcompositor'.
+Updated HMD Prop_DisplayFrequency_Float to 90.000000
+Adding 0.000000ms latency to predicted poses for display redirect 'ViveLH'.
+****************************************** Begin GPU speed ******************************************
+GPU Vendor: "NVIDIA GeForce RTX 4090" GPU Driver: "536.99"
+MeasureGpuMegaPixelsPerSecond(0): Returning 6703 MP/sec. Total CPU time 0.05 seconds.
+GPU speed from average of 4 median samples: 6399
+******************************************* End GPU speed *******************************************
+HMD driver recommended: 4928x4928 90.0Hz HiddenArea(10.00%) = 3934 MP/sec
+Raw ideal render target scale = 1.63
+Clamping render target scale to 1.5x
+New result of GetRecommendedRenderTargetSize for current app: 6036x6036
+Loading fonts/debug.spritefont
+Creating samplers
+Creating util resources
+Creating/Updating distortion surfaces (mesh resolution 49)
+Warp mesh (left eye) covers 87.21% of its viewport (shrink wrap saved 1.63%)
+Warp mesh (right eye) covers 87.69% of its viewport (shrink wrap saved 1.55%)
+Creating constant buffers
+Creating systemlayer textures (w=6036,h=6036)
+viveVR: Using Display mode
+viveVR: Get GraphicsAdapterLuid 2372243, used: 2372243
+viveVR: Device init success!
+viveVR: CreateSwapTextureSet 10308 format=29 width=6036 height=6036 count=1
+viveVR: First CreateSwapTextureSet for pid: 10308, 1 index:0
+viveVR: TextureSet index 0 : [0] 3221226370 [1] 3221225730 [2] 1073745986
+Set thread 00000000000013F8 priority to: 15
+Processing message VRMsg_CreateSwapTextureSet from 10308: vrcompositor took 0.0479 seconds
+viveVR: CreateSwapTextureSet 10308 format=29 width=6036 height=6036 count=1
+viveVR: TextureSet index 1 : [0] 3221226242 [1] 3221226114 [2] 1073745922
+Initializing timing resources
+Initializing camera
+Creating static resources for tracked camera
+Failed to get tracked camera recommended undistortion dimensions!
+Tracked Camera: Failed to create static GPU resources.
+D3D11 Camera Initialization failure.
+Done initializing CGraphicsDevice resources
+Feathering mura correction for ViveLH
+ - Inner(l=0, r=0, t=0, b=0)
+ - Outer(l=0, r=0, t=0, b=0)
+Loading MC resources
+LoadMCImage: Error querying image
+Distort initialized
+Loading background skybox texture async 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\backgrounds\aurorasky.png'
+Loading reflection skybox texture async 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\reflections\dashboard_lights.png'
+Set thread FFFFFFFFFFFFFFFE priority to: -15
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+Set thread 0000000000000A24 priority to: 15
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrstartup.exe 16584
+Set thread 00000000000009E8 priority to: 15
+Compositor render thread started
+Startup Complete (0.494581 seconds)
+Couldn't find action /actions/system/in/showpowermenu. Ignoring it.
+viveVR: Driver Present, new sync texture 2147491714, replace count 0
+viveVR: Compositor synctexture 2147491714
+[OnMsg_LaunchApplication( openvr.tool.steamvr_environments )] from 16584: vrstartup
+SetApplicationPid appkey=openvr.tool.steamvr_environments pid=13032, external transition
+SetApplicationPid: Setting app openvr.tool.steamvr_environments PID to 13032
+vrclient type=VRApplication_Utility
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR\Utility\ViveVRHelper.exe (VRApplication_Utility) (Args: ) 11908 
+Creating Builtin AppInfo for C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR\Utility\ViveVRHelper.exe (VRApplication_Utility). , , 11908
+AppInfoManager.ProcessConnected BEGIN 11908 C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR\Utility\ViveVRHelper.exe 4 system.generated.vivevrhelper.exe
+SetApplicationPid appkey=system.generated.vivevrhelper.exe pid=11908, external transition
+SetApplicationPid: Setting app system.generated.vivevrhelper.exe PID to 11908
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for system.generated.vivevrhelper.exe
+Tools Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools exists.
+Demo Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\demo not found.
+[Input] system.generated.vivevrhelper.exe (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 11908: ViveVRHelper took 0.00601 seconds
+Received success response from vrserver connect
+Not looking for a good app key because we were launched as a child of vrserver
+App key after connect message:system.generated.vivevrhelper.exe
+vrclient type=VRApplication_WebHelper
+[Translator] Failed to load vrmonitor_issues_koreana.txt
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Loaded image C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\backgrounds\aurorasky.png (4096x2048) dur=59.409200ms
+Closing pipe SteamVR_Namespace because it was broken from the other end
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe (VRApplication_WebHelper) (Args: ) 6212 
+AppInfoManager.ProcessConnected BEGIN 6212 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 8 steam.overlay.250820
+AUDIO: Refreshing audio devices
+SetApplicationPid appkey=steam.overlay.250820 pid=6212, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 6212
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 6212: vrwebhelper_main took 0.00647 seconds
+Received success response from vrserver connect
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'system.generated.vivevrhelper.exe'.
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+AUDIO: Detected 10 playback and 7 record devices
+Default Playback Audio Devices: {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}, {0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553} (Comm)
+	-->스피커(VIVE Pro Mutimedia Audio),0,스피커,VIVE Pro Mutimedia Audio,VID_0BB4/PID_030B,USB\VID_0BB4&PID_030B&MI_00\b&fbb28c1&0&0000,{0.0.0.00000000}.{1daa808a-8cae-4953-b44f-bebeaf7c2553}
+	디지털 오디오 인터페이스(Sony Audio),0,디지털 오디오 인터페이스,Sony Audio,VID_054C/PID_0899,USB\VID_054C&PID_0899&MI_00\8&3b193290&0&0000,{0.0.0.00000000}.{42fad862-2236-4849-90ad-728650ac4117}
+	Realtek Digital Output(Realtek USB Audio),0,Realtek Digital Output,Realtek USB Audio,VID_0B05/PID_1A52,USB\VID_0B05&PID_1A52&MI_00\9&e6653e8&0&0000,{0.0.0.00000000}.{7e9bb0e1-b8fa-47a2-83e4-94fb0262708c}
+Default Record Audio Device: {0.0.1.00000000}.{d718a8b6-49bb-4bcd-ac46-020c102fc299}, {0.0.1.00000000}.{d718a8b6-49bb-4bcd-ac46-020c102fc299} (Comm)
+	마이크(Sonic Studio Virtual Mixer),0,마이크,Sonic Studio Virtual Mixer,VID_0000/PID_0000,SWD\DRIVERENUM\{1b98ef90-ca0e-11e7-8f1a-0800200c9a66}#AVoluteSS3Vad&a&1090026b&0,{0.0.1.00000000}.{35cf47f9-9e27-43b9-ad5c-f608630882d2}
+	-->마이크(VIVE Pro Mutimedia Audio),0,마이크,VIVE Pro Mutimedia Audio,VID_0BB4/PID_030B,USB\VID_0BB4&PID_030B&MI_00\b&fbb28c1&0&0000,{0.0.1.00000000}.{d718a8b6-49bb-4bcd-ac46-020c102fc299}
+[System] Prepare operating system environment
+[System] Setting power settings to minimum power savings.
+[System] Found power mode {381B4222-F694-41F0-9685-FF5BB260DF2E} 균형 조정 (current)
+[System] Found power mode {8C5E7FDA-E8BF-4A96-9A85-A6E23A8C635C} 고성능
+[System] Found power mode {A1841308-3541-4FAB-BC81-F71556F20B4A} 절전
+[System] Setting High Performance power mode
+Loaded image C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\reflections\dashboard_lights.png (128x64) dur=0.155700ms
+Loaded C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\reflections\ltc_1.dds in 0.300500ms
+Loaded C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\reflections\ltc_2.dds in 0.179500ms
+[System] Detected first setup.
+[System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+[System] Runtime: 1690491041 250820  SteamVR
+vrclient type=VRApplication_VRMonitor
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+[Settings] Save Json Settings to C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrmonitor.exe (VRApplication_VRMonitor) (Args: -nokillprocess -startupappid 250820 -startupreason steamvr_vrstartup -startupapptype 7) 15848 
+AppInfoManager.ProcessConnected BEGIN 15848 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrmonitor.exe 5 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=15848, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 15848
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 15848: vrmonitor took 0.00507 seconds
+Received success response from vrserver connect
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+vrclient type=VRApplication_Scene
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+App key after connect message:
+Client (VR_CompositorPipe_16992) app container state: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 6212
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Using htmlcache path C:\Users\Home\AppData\Local\SteamVR\htmlcache
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_environments\game\bin\win64\steamtours.exe (VRApplication_Scene) (Args: -vr -retail -useappid SteamVRAppID -nowindow -vconport 29009) 13032 
+StartSceneApplicationTransitionFromProcess( 13032, C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_environments\game\bin\win64\steamtours.exe, openvr.tool.steamvr_environments)
+AppInfoManager.ProcessConnected BEGIN 13032 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_environments\game\bin\win64\steamtours.exe 1 openvr.tool.steamvr_environments
+SetApplicationPid appkey=openvr.tool.steamvr_environments pid=13032, external transition
+SetApplicationPid: Setting app openvr.tool.steamvr_environments PID to 13032
+AppInfoManager.ProcessConnected END
+[Input] openvr.tool.steamvr_environments (vive_pro) has no configured binding. Input will not be available
+Using existing HMD lighthouse.LHR-F66FF9D7
+Received success response from vrserver connect
+App key after connect message:openvr.tool.steamvr_environments
+Client (VR_CompositorPipe_16992) app container state: 1
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_environments\game\bin\win64\steamtours.exe 13032
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+[Input] Attempting to load initial input config
+[Input] Failed to load binding file. We'll wait and try again when CRC or load count changes( computed CRC=0, old CRC=0, shared CRC=0, load count=0, shared load count=1 [app: openvr.tool.steamvr_environments]
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+[Input] No controllers detected. Not waiting for config.
+Added overlay (pairing)
+VR Dashboard executable already running.
+Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?desktop=true&persisted=true (max fps 120)
+Added overlay (bindingcallouts)
+Added overlay (controllerbinding)
+Added overlay (controllerbinding_desktop)
+Added overlay (debugcommands_desktop)
+Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Added overlay (keyboard)
+Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Added overlay (managetrackers_desktop)
+Added overlay (messageoverlay)
+Added overlay (notificationtoast)
+Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Added overlay (settings_desktop)
+Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?desktop=true&persisted=true (max fps 120)
+Added overlay (systemui)
+Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Added 11 overlays from 2 configurations. 4 have been opened.
+Starting CEF Message Loop...
+[Input] SetActionManifest: From openvr.tool.steamvr_environments: Using configured URL file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/steamtours/cfg/actions.json
+[Input] openvr.tool.steamvr_environments (vive_pro) has no configured binding. Input will not be available
+Failed to find interface 'IXrProto_001'
+Determined this is a legacy app.
+Processing message VRMsg_Input_SetActionManifestPath from 13032: steamtours took 0.0503 seconds
+[Input] Action Manifest Path set to 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_environments\game\steamtours\cfg\actions.json'
+Capturing Scene Focus
+Closing pipe vrstartup (16584) because it was broken from the other end
+Process vrstartup (16584) disconnected (Thread(0x000001C3F39A5880/0x000)
+Lost pipe connection from vrstartup (16584)
+Closing pipe 16584: vrstartup because it was broken from the other end
+Process 16584: vrstartup disconnected (Thread(0x0000020C559D8690/0x000)
+viveVR: DestroyAllSwapTextureSets 16584
+viveVR: DestroyAllSwapTextureSets 16584, index 1 return
+AppInfoManager.ProcessQuit processid=16584 eLaunchingApp=LaunchingApp_None
+[Settings] Save Json Settings to C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+VR dashboard (v1.26.7 (1690491041)) starting up
+vrclient type=VRApplication_Overlay
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrdashboard.exe (VRApplication_Overlay) (Args: ) 3772 
+AppInfoManager.ProcessConnected BEGIN 3772 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrdashboard.exe 2 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=3772, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 3772
+VRDashboard watchdog enabled for pid:3772
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 3772: vrdashboard took 0.00561 seconds
+Received success response from vrserver connect
+App key after connect message:
+Client (VR_CompositorPipe_16992) app container state: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrmonitor.exe 15848
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+VR Dashboard executable already running.
+VR_Init successful
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+[Steam] Attempt to connect to Steam
+Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+[Audio] Audio init
+Determined this is a legacy app.
+[Status] Graphics driver version is 536.99.
+[Chaperone] The universe id is invalid, but the system did not run long enough.
+[System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+[Steam] Connected to Steam in 0.05 seconds.
+Determined this is a legacy app.
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+vrclient type=VRApplication_Overlay
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steam.exe (VRApplication_Overlay) (Args: -silent) 8864 
+lighthouse: LHR-F66FF9D7 H: Saw demod rate 1159/s, enabling Sync on Beam
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Creating Builtin AppInfo for C:\Program Files (x86)\Steam\steam.exe (VRApplication_Overlay). steam.client, , 8864
+AppInfoManager.ProcessConnected BEGIN 8864 C:\Program Files (x86)\Steam\steam.exe 2 steam.client
+SetApplicationPid appkey=steam.client pid=8864, external transition
+SetApplicationPid: Setting app steam.client PID to 8864
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.client
+[Input] steam.client (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 8864: steam took 0.00594 seconds
+Received success response from vrserver connect
+Not looking for a good app key because Steam didn't start this app
+App key after connect message:steam.client
+Client (VR_CompositorPipe_16992) app container state: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steam.exe 8864
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+VR Dashboard executable already running.
+Failed to find interface 'IVRSteamPrivate_014'
+Failed to find interface 'IVRSteamPrivate_013'
+Failed to find interface 'IVRSteamPrivate_012'
+Failed to find interface 'IVRSteamPrivate_011'
+Failed to find interface 'IVRSteamPrivate_010'
+Failed to find interface 'IVRSteamPrivate_009'
+Failed to find interface 'IVRSteamPrivate_008'
+Failed to find interface 'IVRSteamPrivate_007'
+Adding application manifest path: C:\Program Files (x86)\Steam\config\steamapps.vrmanifest
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.client'.
+Determined this is a legacy app.
+Loaded image C:\Program Files (x86)\Steam\resource\icon_steam_vr.png (300x300) dur=1.045700ms
+viveVR: Warning! get pose block (1.486376)
+viveVR: Warning! frame update over (1.487250)
+Failed to find interface 'IVRSteamPrivate_014'
+Failed to find interface 'IVRSteamPrivate_013'
+Failed to find interface 'IVRSteamPrivate_012'
+Failed to find interface 'IVRSteamPrivate_011'
+Failed to find interface 'IVRSteamPrivate_010'
+Failed to find interface 'IVRSteamPrivate_009'
+Failed to find interface 'IVRSteamPrivate_008'
+Failed to find interface 'IVRSteamPrivate_007'
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+vrclient type=VRApplication_WebHelper
+vrclient type=VRApplication_WebHelper
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+Client (SteamVR_Namespace) app container state: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe (VRApplication_WebHelper) (Args: --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --enable-experimental-web-platform-features --field-trial-handle=1816,778312345272101240,14948008164957240008,131072 --service-pipe-token=2869582063085166060 --enable-blink-features=ResizeObserver --lang=en-US --log-file=C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\debug.log --log-severity=disable --product-version=SteamVR HTML --disable-spell-checking --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=2869582063085166060 --renderer-client-id=4 --mojo-platform-channel-handle=2668 /prefetch:1) 6804 
+AppInfoManager.ProcessConnected BEGIN 6804 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 8 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=6804, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 6804
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe (VRApplication_WebHelper) (Args: --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --enable-experimental-web-platform-features --field-trial-handle=1816,778312345272101240,14948008164957240008,131072 --service-pipe-token=15355295896324253764 --enable-blink-features=ResizeObserver --lang=en-US --log-file=C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\debug.log --log-severity=disable --product-version=SteamVR HTML --disable-spell-checking --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=15355295896324253764 --renderer-client-id=3 --mojo-platform-channel-handle=2204 /prefetch:1) 7348 
+Received success response from vrserver connect
+AppInfoManager.ProcessConnected BEGIN 7348 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 8 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=7348, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 7348
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 7348: vrwebhelper_pairing took 0.00942 seconds
+Received success response from vrserver connect
+App key after connect message:
+Client (VR_CompositorPipe_16992) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrdashboard.exe 3772
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+CSharedResourceNamespaceServer sent namespace data: 16992
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+Initializing desktop manager...
+vrclient type=VRApplication_WebHelper
+[System] Runtime: 1690491041 250820  SteamVR
+[Steam] Connect to Steam finished: check for dismissable warnings
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Skipping OpenXR prompt because we aren't on beta( beta name "")
+App key after connect message:
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+Client (VR_CompositorPipe_16992) app container state: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe (VRApplication_WebHelper) (Args: --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --enable-experimental-web-platform-features --field-trial-handle=1816,778312345272101240,14948008164957240008,131072 --service-pipe-token=5782644090051025953 --enable-blink-features=ResizeObserver --lang=en-US --log-file=C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\debug.log --log-severity=disable --product-version=SteamVR HTML --disable-spell-checking --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=5782644090051025953 --renderer-client-id=6 --mojo-platform-channel-handle=2748 /prefetch:1) 13368 
+AppInfoManager.ProcessConnected BEGIN 13368 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 8 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=13368, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 13368
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Processing message VRMsg_Connect from 13368: vrwebhelper_systemui took 0.00565 seconds
+Received success response from vrserver connect
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+SetApplicationPid appkey=system.keyboard pid=6804, external transition
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Creating VRHML JS object
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 6804
+App key after connect message:
+Determined this is a legacy app.
+Client (VR_CompositorPipe_16992) app container state: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+Browser context created for browser "pairing" (overlay key: "")
+Creating VRHML JS object
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 7348
+Determined this is a legacy app.
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Created shared texture 'Scene create D3D11, -1' 32x32 (1 mips)
+Shutting down existing desktop views.
+vrclient type=VRApplication_WebHelper
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+CEF Local Resource Load Error: http://localhost:27062/dashboard/css%5Cvrwebui_shared.css -> 404 (Not Found)
+Client (SteamVR_Namespace) app container state: 1
+Connecting client (SteamVR_Namespace) app container status: 1
+CSharedResourceNamespaceServer sent namespace data: 16992
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Connecting client (VR_ServerPipe_16992) app container status: 1
+New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe (VRApplication_WebHelper) (Args: --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --enable-experimental-web-platform-features --field-trial-handle=1816,778312345272101240,14948008164957240008,131072 --service-pipe-token=9278270069804795717 --enable-blink-features=ResizeObserver --lang=en-US --log-file=C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\debug.log --log-severity=disable --product-version=SteamVR HTML --disable-spell-checking --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=9278270069804795717 --renderer-client-id=5 --mojo-platform-channel-handle=2696 /prefetch:1) 14516 
+AppInfoManager.ProcessConnected BEGIN 14516 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 8 steam.overlay.250820
+SetApplicationPid appkey=steam.overlay.250820 pid=14516, external transition
+SetApplicationPid: Setting app steam.overlay.250820 PID to 14516
+AppInfoManager.ProcessConnected END
+[Input] Enabling legacy input for steam.overlay.250820
+[Input] steam.overlay.250820 (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Using existing HMD lighthouse.LHR-F66FF9D7
+Received success response from vrserver connect
+App key after connect message:
+Client (VR_CompositorPipe_16992) app container state: 1
+SetApplicationPid appkey=system.systemui pid=13368, external transition
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 13368
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+Browser context created for browser "systemui" (overlay key: "system.systemui")
+Creating VRHML JS object
+Initializing desktop view 1.
+Determined this is a legacy app.
+Loaded image C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\icon_steamvr_desktop.png (512x512) dur=1.677500ms
+CEF Local Resource Load Error: http://localhost:27062/dashboard/css/remoteusers.css?t=1690488957730 -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/css%5Cvrwebui_shared.css -> 404 (Not Found)
+Started desktop capture for display 1.
+Set thread FFFFFFFFFFFFFFFE priority to: -15
+Determined this is a legacy app.
+[Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'steam.overlay.250820'.
+Initializing desktop view 2.
+Started desktop capture for display 2.
+CEF Local Resource Load Error: http://localhost:27062/lighthouse/webinterface/localization/lighthouse_web_koreana.json?t=1692602847919 -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/webhelper_koreana.json?t=1692602847921 -> 404 (Not Found)
+Determined this is a legacy app.
+Registered raw input devices successfully. Using hardware sanity checks for physical mouse override.
+Set thread FFFFFFFFFFFFFFFE priority to: -15
+lighthouse: LHR-F66FF9D7 H: No base stations seen...
+lighthouse: LHR-F66FF9D7 H: No optical frames in past 5 seconds
+Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=6fce31e61530fbe4f050:2:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_koreana.json?t=1692602848132 -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1692602848133 -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/webhelper_koreana.json?t=1692602848133 -> 404 (Not Found)
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| systemui.tsx is running
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Bootstrapping SystemUIRoot
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox settings/overlay...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Connecting vrsettings...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Connecting vrsystem...
+Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=fc936920bed86bf682ba:2:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/vrmonitor_koreana.json?t=1692602848326 -> 404 (Not Found)
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/bindingui_koreana.json?t=1692602848327 -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/webhelper_koreana.json?t=1692602848328 -> 404 (Not Found)
+Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=fc936920bed86bf682ba:2:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=fc936920bed86bf682ba:2:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Connecting vrsettings...
+Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=fc936920bed86bf682ba:2:
+| xxx render layout==null, bailing
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Websocket connected
+[Steam] Steam INIT.
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got vr settings schema
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox systemui_quicklaunch/vrwebhelper_systemui_6...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_7...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_8...
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox roomsetup-ui/vrwebhelper_systemui_9...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got audio devices
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Initializing sg_mailbox
+Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_10...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got audio devices
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got vr settings schema
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got audio devices
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+lighthouse: LHR-F66FF9D7 H: Saw demod rate 1085/s, enabling Sync on Beam
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Setting max texture dimensions to 7886x7886 before requiring downsampling
+viveVR: CreateSwapTextureSet 13032 format=29 width=7967 height=7967 count=1
+viveVR: First CreateSwapTextureSet for pid: 13032, 0 index:1
+viveVR: TextureSet index 0 : [0] 2147495938 [1] 2147496002 [2] 2147488578
+viveVR: CreateSwapTextureSet 13032 format=29 width=7967 height=7967 count=1
+viveVR: TextureSet index 1 : [0] 2147489666 [1] 2147486146 [2] 2147493186
+viveVR: Driver Present, new sync texture 2147495810, replace count 0
+viveVR: Driver Present, AcquireSync failed 2147495810
+viveVR: Driver Present, new sync texture 2147491714, replace count 0
+viveVR: Driver Present, new sync texture 2147495810, replace count 0
+Timed out waiting for a good app key
+App key after connect message:steam.overlay.250820
+Client (VR_CompositorPipe_16992) app container state: 1
+Connecting client (VR_CompositorPipe_16992) app container status: 1
+External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe 14516
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+Browser context created for browser "settings_desktop" (overlay key: "")
+Creating VRHML JS object
+CEF Local Resource Load Error: http://localhost:27062/dashboard/css%5Cvrwebui_shared.css -> 404 (Not Found)
+Determined this is a legacy app.
+CEF Local Resource Load Error: http://localhost:27062/dashboard/css%5Cvrwebui_shared.css -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/vrmonitor_koreana.json?t=1692602850376 -> 404 (Not Found)
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/bindingui_koreana.json?t=1692602850377 -> 404 (Not Found)
+Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=f738d45305b844595e6d:2:
+| Connecting vrmailbox settings/desktop...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Connecting vrsettings...
+Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=f738d45305b844595e6d:2:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Connecting vrsystem...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/webhelper_koreana.json?t=1692602850377 -> 404 (Not Found)
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Websocket connected
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got audio devices
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got audio devices
+Registering to receive audio changes because of callback
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got vr settings schema
+Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=f738d45305b844595e6d:2:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=7198edcf3d923d6df82e:2:
+| Got audio devices
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+lighthouse: LHR-F66FF9D7 H: Saw demod rate 2224/s, enabling Sync on Beam
+lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:33.617 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:34.189 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1108/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:34.189 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:36.137 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:36.147 [Info] - [System] System is running for 10 seconds.
+Mon Aug 21 2023 16:27:36.147 [Info] - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Mon Aug 21 2023 16:27:36.148 [Info] - Checking for Vive wireless receivers. 2 detected.
+Mon Aug 21 2023 16:27:36.194 [Info] - [Status Warning Added LHR-F66FF9D7 ???(0)] ?? ?...
+Mon Aug 21 2023 16:27:36.194 [Info] - [Status Warning Added 8ba42dcb347b ? ? ?? ?? ??(1)] ?? ?...
+Mon Aug 21 2023 16:27:36.194 [Info] - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Ready'.
+Mon Aug 21 2023 16:27:36.295 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1030/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:36.295 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:38.242 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:38.445 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1034/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:38.445 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:40.384 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:40.554 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 957/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:40.554 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:42.493 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:42.627 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 970/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:42.627 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:42.807 [Info] - 0 - entering standby
+Mon Aug 21 2023 16:27:42.807 [Info] - viveVR: VREvent_EnterStandbyMode index = 0
+Mon Aug 21 2023 16:27:43.182 [Info] - [System] Unknown Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_Standby'.
+Mon Aug 21 2023 16:27:44.561 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:44.757 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1588/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:44.757 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:46.690 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:46.822 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 836/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:46.822 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:48.770 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:48.944 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1776/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:48.944 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:50.879 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:51.035 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1605/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:51.035 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:52.973 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:53.179 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1694/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:53.179 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:55.114 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:55.266 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1076/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:55.266 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:57.206 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:57.362 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1291/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:57.362 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:27:59.299 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:27:59.452 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1226/s, enabling Sync on Beam
+Mon Aug 21 2023 16:27:59.452 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:01.389 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:01.593 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1202/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:01.593 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:03.532 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:03.838 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1066/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:03.838 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:05.778 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:05.941 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1958/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:05.941 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:07.884 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:08.104 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1211/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:08.105 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:10.039 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:10.208 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 832/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:10.208 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:12.156 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:12.532 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1075/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:12.532 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:14.477 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:14.660 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1283/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:14.660 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:16.605 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:16.743 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1207/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:16.743 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:18.681 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:18.877 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1630/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:18.877 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:20.823 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:21.009 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 2467/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:21.009 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:22.934 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:23.164 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 777/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:23.164 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:25.116 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:25.270 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1052/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:25.270 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:27.215 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:27.573 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1112/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:27.573 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:29.515 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:29.671 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1241/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:29.671 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:31.602 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:31.754 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1066/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:31.754 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:33.696 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:33.890 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1393/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:33.890 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:35.815 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:36.075 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1337/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:36.075 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:38.003 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:38.219 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1102/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:38.219 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:40.162 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:40.422 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:28:40.446 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1698/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:40.446 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:42.366 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:42.540 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1895/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:42.540 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:44.468 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:44.779 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 757/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:44.779 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:46.719 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:46.913 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 2098/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:46.913 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:48.851 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:48.998 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1348/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:48.998 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:50.925 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:51.119 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 2097/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:51.119 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:53.049 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:53.293 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1351/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:53.293 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:55.231 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:55.391 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1909/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:55.391 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:57.332 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:57.486 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1596/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:57.486 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:28:59.434 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:28:59.589 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1536/s, enabling Sync on Beam
+Mon Aug 21 2023 16:28:59.589 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:01.526 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:01.730 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1601/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:01.730 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:03.666 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:03.819 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1291/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:03.819 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:05.750 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:05.904 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1057/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:05.904 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:07.851 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:08.151 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1200/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:08.151 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:10.090 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:10.296 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1207/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:10.296 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:12.234 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:12.394 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1288/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:12.394 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:14.345 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:14.617 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 787/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:14.617 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:16.561 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:16.691 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1086/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:16.691 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:18.630 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:18.812 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1554/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:18.812 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:20.752 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:20.894 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1171/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:20.894 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:22.833 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:23.013 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1446/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:23.013 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:24.949 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:25.088 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 983/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:25.088 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:27.033 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:27.193 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1600/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:27.193 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:29.135 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:29.290 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1494/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:29.290 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:31.228 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:31.381 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1687/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:31.381 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:33.320 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:33.522 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1589/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:33.522 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:35.448 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:35.610 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1131/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:35.611 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:37.539 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:37.689 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1255/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:37.689 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:39.631 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:39.840 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1471/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:39.840 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:41.781 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:42.207 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1284/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:42.207 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:44.134 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:44.257 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1109/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:44.257 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:46.200 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:46.360 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 974/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:46.360 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:48.303 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:48.594 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1434/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:48.594 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:50.531 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:50.717 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1563/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:50.717 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:52.662 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:52.807 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 971/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:52.807 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:54.741 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:54.923 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 923/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:54.923 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:56.858 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:56.979 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1201/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:56.979 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:29:58.912 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:29:59.064 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1467/s, enabling Sync on Beam
+Mon Aug 21 2023 16:29:59.064 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:01.009 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:10.495 [Info] - 0 - leaving standby
+Mon Aug 21 2023 16:30:10.498 [Info] - viveVR: VREvent_LeaveStandbyMode index = 0
+Mon Aug 21 2023 16:30:10.510 [Info] - viveVR: Warning! frame update over (147.707916)
+Mon Aug 21 2023 16:30:11.055 [Info] - lighthouse: LHR-F66FF9D7 H: ----- BOOTSTRAPPED base 5B7C0C2C (closest) distance 1.61m velocity 0.10m/s base pitch ~159.7 deg roll ~-0.0 deg -----
+Mon Aug 21 2023 16:30:11.239 [Info] - [Status Warning Added LHB-5B7C0C2C ??? ????(2)] ?? ?...
+Mon Aug 21 2023 16:30:11.239 [Info] - [Status Warning Added LHB-098F2C96 ??? ????(3)] ?? ?...
+Mon Aug 21 2023 16:30:11.239 [Info] - [System] Unknown Transition from 'SteamVRSystemState_Standby' to 'SteamVRSystemState_Ready'.
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: LHR-F66FF9D7 H: ----- CALIBRATED base 5B7C0C2C at pitch 156.46 deg roll 22.79 deg -----
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: Updating tilt for 5B7C0C2C:  Old= 0.00, 0.00, 39.4784 <- 158.11 deg -> new= 156.46, 22.79, 4.02219e-05   result=156.46, 22.79, 4.02219e-05
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: Best tilt from LHR-F66FF9D7 for base 5B7C0C2C pitch 156.46 roll 22.79 score 1.49
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: BootstrapFinished setting tilt base to 5B7C0C2C
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: Creating new universe 1692602842 because there were no compatible existing universes
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: Setting 5B7C0C2C as the origin of universe 1692602842
+Mon Aug 21 2023 16:30:12.821 [Info] - lighthouse: Setting universe tilt from 5B7C0C2C as new origin: pitch 156.46 deg roll 22.79 deg
+Mon Aug 21 2023 16:30:12.827 [Info] - lighthouse: Saved LighthouseDB rev 6 to C:\Program Files (x86)\Steam\config\lighthouse\lighthousedb.json
+Mon Aug 21 2023 16:30:12.827 [Info] - Failed to read chaperone file from C:\Program Files (x86)\Steam\config\chaperone_info.vrchap
+Mon Aug 21 2023 16:30:12.827 [Info] - Failed to update shared data
+Mon Aug 21 2023 16:30:12.827 [Info] - viveVR: VREvent_ChaperoneFlushCache
+Mon Aug 21 2023 16:30:12.832 [Info] - Clearing dashboard transform because ChaperoneUniverseHasChanged (old 0 new 1692602842)
+Mon Aug 21 2023 16:30:12.844 [Info] - [System] Chaperone Universe changes for the first time
+Mon Aug 21 2023 16:30:12.844 [Info] - [System] Chaperone indicates room setup ( ).
+Mon Aug 21 2023 16:30:12.844 [Info] - [System] Launching room setup, because calibration state was 201.
+Mon Aug 21 2023 16:30:12.844 [Info] - [System] Launching openvr.tool.steamvr_room_setup
+Mon Aug 21 2023 16:30:12.844 [Info] - [OnMsg_LaunchApplication( openvr.tool.steamvr_room_setup )] from 15848: vrmonitor
+Mon Aug 21 2023 16:30:12.844 [Info] - Sending Quit event to process 13032: steamtours
+Mon Aug 21 2023 16:30:12.850 [Info] - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=7a80654c84d34115e6f7:2:
+| Connecting vrmailbox ogs_client/system.systemui...
+Mon Aug 21 2023 16:30:12.863 [Info] - Closing Keyboard
+Mon Aug 21 2023 16:30:12.876 [Info] - OnMbox_SetDashboardVisibility {
+   "reason" : "transition_app_quitting",
+   "type" : "set_dashboard_visibility",
+   "visible" : false
+}
+Mon Aug 21 2023 16:30:12.913 [Info] - ClearSkyboxOverride
+Mon Aug 21 2023 16:30:12.913 [Info] - VR_Shutdown called
+Mon Aug 21 2023 16:30:12.914 [Info] - viveVR: DestroySwapTextureSet 2147495938
+Mon Aug 21 2023 16:30:12.914 [Info] - viveVR: DestroySwapTextureSet 2147489666
+Mon Aug 21 2023 16:30:12.914 [Info] - Closing pipe 13032: steamtours because it was broken from the other end
+Mon Aug 21 2023 16:30:12.914 [Info] - Process 13032: steamtours disconnected (Thread(0x0000020C609C97B0/0x000)
+Mon Aug 21 2023 16:30:12.914 [Info] - viveVR: DestroyAllSwapTextureSets 13032
+Mon Aug 21 2023 16:30:12.914 [Info] - Closing pipe steamtours (13032) because it was broken from the other end
+Mon Aug 21 2023 16:30:12.914 [Info] - Process steamtours (13032) disconnected (Thread(0x000001C3F39A50A0/0x000)
+Mon Aug 21 2023 16:30:12.914 [Info] - Lost pipe connection from steamtours (13032)
+Mon Aug 21 2023 16:30:12.914 [Info] - ######################################################################
+Mon Aug 21 2023 16:30:12.914 [Info] - Cumulative stats for pid: 13032
+Mon Aug 21 2023 16:30:12.914 [Info] - Total.................. 28192 presents.    2 dropped.  356 reprojected
+Mon Aug 21 2023 16:30:12.914 [Info] - viveVR: DestroyAllSwapTextureSets 13032, index 1 return
+Mon Aug 21 2023 16:30:12.914 [Info] - Startup................   295 presents.    2 dropped.  192 reprojected
+Mon Aug 21 2023 16:30:12.914 [Info] - AppInfoManager.ProcessQuit processid=13032 eLaunchingApp=LaunchingApp_Key
+Mon Aug 21 2023 16:30:12.914 [Info] - AppInfoManager.ProcessQuit: Clearing application openvr.tool.steamvr_environments PID was 13032
+Mon Aug 21 2023 16:30:12.914 [Info] - AppInfoManager.ProcessQuit: Clearing application openvr.tool.steamvr_environments PID because 13032 has exited
+Mon Aug 21 2023 16:30:12.914 [Info] - Loading...  0 total....     0 presents.    0 dropped.    0 reprojected
+Mon Aug 21 2023 16:30:12.914 [Info] - Timed out.  1 total....     0 presents.    0 dropped.    0 reprojected
+Mon Aug 21 2023 16:30:12.914 [Info] - Compositor Time........CPU: 0.117ms / GPU: 0.511ms
+Mon Aug 21 2023 16:30:12.914 [Info] - Game Info..............FPS Average Target 90  ApplicationTime CPU: 1.610ms / GPU: 7.933ms
+Mon Aug 21 2023 16:30:12.914 [Info] - ######################################################################
+Mon Aug 21 2023 16:30:12.914 [Info] - Total dropped frames: 2
+Mon Aug 21 2023 16:30:12.938 [Info] - SetApplicationPid appkey=openvr.tool.steamvr_room_setup pid=3780, external transition
+Mon Aug 21 2023 16:30:12.938 [Info] - SetApplicationPid: Setting app openvr.tool.steamvr_room_setup PID to 3780
+Mon Aug 21 2023 16:30:12.998 [Info] - viveVR: Driver Present, new sync texture 2147491714, replace count 0
+Mon Aug 21 2023 16:30:13.169 [Info] - lighthouse: LHR-F66FF9D7 H: Optical frames received again...
+Mon Aug 21 2023 16:30:13.240 [Info] - [Status Warning Removed LHR-F66FF9D7 ???(0)] ?? ?...
+Mon Aug 21 2023 16:30:13.240 [Info] - [Status Warning Removed LHB-5B7C0C2C ??? ????(2)] ?? ?...
+Mon Aug 21 2023 16:30:13.240 [Info] - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_NotReady'.
+Mon Aug 21 2023 16:30:13.243 [Info] - [Status Alert] ? ?? (C201)
+Mon Aug 21 2023 16:30:13.338 [Info] - Clearing dashboard transform because TrackedDeviceUserInteractionStarted
+Mon Aug 21 2023 16:30:13.404 [Info] - Connecting client (SteamVR_Namespace) app container status: 1
+Mon Aug 21 2023 16:30:13.404 [Info] - CSharedResourceNamespaceServer sent namespace data: 16992
+Mon Aug 21 2023 16:30:13.406 [Info] - Connecting client (VR_ServerPipe_16992) app container status: 1
+Mon Aug 21 2023 16:30:13.406 [Info] - New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe (VRApplication_Scene) (Args: -popupwindow) 3780 
+Mon Aug 21 2023 16:30:13.408 [Info] - StartSceneApplicationTransitionFromProcess( 3780, C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe, openvr.tool.steamvr_room_setup)
+Mon Aug 21 2023 16:30:13.408 [Info] - AppInfoManager.ProcessConnected BEGIN 3780 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe 1 openvr.tool.steamvr_room_setup
+Mon Aug 21 2023 16:30:13.410 [Info] - SetApplicationPid appkey=openvr.tool.steamvr_room_setup pid=3780, external transition
+Mon Aug 21 2023 16:30:13.410 [Info] - SetApplicationPid: Setting app openvr.tool.steamvr_room_setup PID to 3780
+Mon Aug 21 2023 16:30:13.410 [Info] - AppInfoManager.ProcessConnected END
+Mon Aug 21 2023 16:30:13.411 [Info] - [Input] Enabling legacy input for openvr.tool.steamvr_room_setup
+Mon Aug 21 2023 16:30:13.412 [Info] - [Input] openvr.tool.steamvr_room_setup (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Mon Aug 21 2023 16:30:13.412 [Info] - Using existing HMD lighthouse.LHR-F66FF9D7
+Mon Aug 21 2023 16:30:13.412 [Info] - Processing message VRMsg_Connect from 3780: steamvr_room_setup took 0.0062 seconds
+Mon Aug 21 2023 16:30:13.425 [Info] - Connecting client (VR_CompositorPipe_16992) app container status: 1
+Mon Aug 21 2023 16:30:13.425 [Info] - External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe 3780
+Mon Aug 21 2023 16:30:13.432 [Info] - Closing pipe 3780: steamvr_room_setup because it was broken from the other end
+Mon Aug 21 2023 16:30:13.432 [Info] - Process 3780: steamvr_room_setup disconnected (Thread(0x0000020C609C4590/0x000)
+Mon Aug 21 2023 16:30:13.432 [Info] - Closing pipe steamvr_room_setup (3780) because it was broken from the other end
+Mon Aug 21 2023 16:30:13.432 [Info] - viveVR: DestroyAllSwapTextureSets 3780
+Mon Aug 21 2023 16:30:13.432 [Info] - viveVR: DestroyAllSwapTextureSets 3780, index 2 return
+Mon Aug 21 2023 16:30:13.432 [Info] - Process steamvr_room_setup (3780) disconnected (Thread(0x000001C3F46D1390/0x000)
+Mon Aug 21 2023 16:30:13.432 [Info] - AppInfoManager.ProcessQuit processid=3780 eLaunchingApp=LaunchingApp_None
+Mon Aug 21 2023 16:30:13.432 [Info] - Lost pipe connection from steamvr_room_setup (3780)
+Mon Aug 21 2023 16:30:13.432 [Info] - AppInfoManager.ProcessQuit: Clearing application openvr.tool.steamvr_room_setup PID was 3780
+Mon Aug 21 2023 16:30:13.432 [Info] - AppInfoManager.ProcessQuit: Clearing application openvr.tool.steamvr_room_setup PID because 3780 has exited
+Mon Aug 21 2023 16:30:13.500 [Info] - Determined this is a legacy app.
+Mon Aug 21 2023 16:30:13.500 [Info] - [Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'openvr.tool.steamvr_room_setup'.
+Mon Aug 21 2023 16:30:13.827 [Info] - RendermodelManager: Reading data from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\lh_basestation_vive\lh_basestation_vive.json
+Mon Aug 21 2023 16:30:13.845 [Info] - [System] Detected first setup.
+Mon Aug 21 2023 16:30:13.875 [Info] - Loaded image C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\lh_basestation_vive\lh_basestation_vive.tga (2048x2048) dur=36.956500ms
+vrclient type=VRApplication_Scene
+Skipping duplicate external driver path "C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR"
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\ViveVRRuntime\ViveVR_openvr_driver\ViveVR\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\VIVEDriver\App\openvr_driver\vive_eyes\resources\settings\default.vrsettings
+[Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+[Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Client (SteamVR_Namespace) app container state: 1
+Mon Aug 21 2023 16:30:15.032 [Info] - Connecting client (SteamVR_Namespace) app container status: 1
+Mon Aug 21 2023 16:30:15.032 [Info] - CSharedResourceNamespaceServer sent namespace data: 16992
+Closing pipe SteamVR_Namespace because it was broken from the other end
+CSharedResourceNamespaceClient::Init(): received namespace data 16992
+Client (VR_ServerPipe_16992) app container state: 1
+Mon Aug 21 2023 16:30:15.034 [Info] - Connecting client (VR_ServerPipe_16992) app container status: 1
+Mon Aug 21 2023 16:30:15.034 [Info] - Unable to create property container PC_700000ec4 because it already existed
+Mon Aug 21 2023 16:30:15.034 [Info] - Unable to create property container for 3780: steamvr_room_setup. Maybe it's a reconnect?
+Mon Aug 21 2023 16:30:15.034 [Info] - New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe (VRApplication_Scene) (Args: -popupwindow) 3780 
+Mon Aug 21 2023 16:30:15.037 [Info] - StartSceneApplicationTransitionFromProcess( 3780, C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe, openvr.tool.steamvr_room_setup)
+Mon Aug 21 2023 16:30:15.037 [Info] - AppInfoManager.ProcessConnected BEGIN 3780 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe 1 openvr.tool.steamvr_room_setup
+Mon Aug 21 2023 16:30:15.039 [Info] - SetApplicationPid appkey=openvr.tool.steamvr_room_setup pid=3780, external transition
+Mon Aug 21 2023 16:30:15.039 [Info] - SetApplicationPid: Setting app openvr.tool.steamvr_room_setup PID to 3780
+Mon Aug 21 2023 16:30:15.039 [Info] - AppInfoManager.ProcessConnected END
+Mon Aug 21 2023 16:30:15.039 [Info] - [Input] Enabling legacy input for openvr.tool.steamvr_room_setup
+Mon Aug 21 2023 16:30:15.040 [Info] - [Input] openvr.tool.steamvr_room_setup (vive_pro) attempting to load default config from file:///C:/Program%20Files%20%28x86%29/Steam/steamapps/common/SteamVR/resources/config/legacy_bindings_generic_hmd.json
+Mon Aug 21 2023 16:30:15.040 [Info] - Using existing HMD lighthouse.LHR-F66FF9D7
+Mon Aug 21 2023 16:30:15.040 [Info] - Processing message VRMsg_Connect from 3780: steamvr_room_setup took 0.00577 seconds
+Received success response from vrserver connect
+App key after connect message:openvr.tool.steamvr_room_setup
+Client (VR_CompositorPipe_16992) app container state: 1
+Mon Aug 21 2023 16:30:15.053 [Info] - Connecting client (VR_CompositorPipe_16992) app container status: 1
+Mon Aug 21 2023 16:30:15.053 [Info] - External connection from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup.exe 3780
+Received success response from vrcompositor connect
+Initializing the limited version of CVRCompositorClient
+[Input] Attempting to load initial input config
+[Input] No controllers detected. Not waiting for config.
+/user/hand/left is FFFFFFFF
+/user/hand/right is FFFFFFFF
+TrackedControllerRole_LeftHand (FFFFFFFF)-> 
+Skipping role TrackedControllerRole_LeftHand because the device is invalid
+TrackedControllerRole_RightHand (FFFFFFFF)-> 
+Skipping role TrackedControllerRole_RightHand because the device is invalid
+TrackedControllerRole_Invalid (0)-> 
+VR Dashboard executable already running.
+Capturing Scene Focus
+Mon Aug 21 2023 16:30:15.100 [Info] - Determined this is a legacy app.
+Mon Aug 21 2023 16:30:15.100 [Info] - [Workshop] Successfully loaded binding file 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\config\legacy_bindings_generic_hmd.json' for app 'openvr.tool.steamvr_room_setup'.
+Mon Aug 21 2023 16:30:15.351 [Info] - Screenshot: HookScreenshot, 1 types
+Screenshot: Hook Screenshot called with types:
+ 5
+
+Determined this is a legacy app.
+Mon Aug 21 2023 16:30:15.435 [Info] - RendermodelManager: Reading data from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\lh_basestation_vive\lh_basestation_vive.json
+Mon Aug 21 2023 16:30:15.846 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.846 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.903 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.903 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.904 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.904 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.912 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.912 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.924 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.924 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.935 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.935 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.946 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.946 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.957 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.957 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.968 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.968 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.979 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:15.979 [Warning] - Invalid texture bounds( 0.000000, 0.000000, 0.000000, 0.000000 ) from application
+Mon Aug 21 2023 16:30:16.114 [Warning] - Disabling texture compression on 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\generic_hmd\generic_hmd.tga' due to destination texture format.
+Mon Aug 21 2023 16:30:16.130 [Info] - Loaded image C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\generic_hmd\generic_hmd.tga (2048x2048) dur=16.137700ms
+Mon Aug 21 2023 16:30:16.203 [Warning] - Disabling texture compression on 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\lh_basestation_vive\lh_basestation_vive.tga' due to destination texture format.
+Mon Aug 21 2023 16:30:16.220 [Info] - Loaded image C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\lh_basestation_vive\lh_basestation_vive.tga (2048x2048) dur=16.722000ms
+Mon Aug 21 2023 16:30:18.169 [Info] - lighthouse: LHR-F66FF9D7 H: Trying to add a secondary base 098F2C96: Available samples not sufficient for booting (hits: 0+2)
+Mon Aug 21 2023 16:30:23.171 [Info] - lighthouse: LHR-F66FF9D7 H: Trying to add a secondary base 098F2C96: Samples didn't yield successful bootstrap pose
+Mon Aug 21 2023 16:30:25.017 [Info] - lighthouse: LHR-F66FF9D7 H: Resetting tracking: no optical samples from base 5B7C0C2C for 2000ms
+Mon Aug 21 2023 16:30:25.017 [Info] - lighthouse: LHR-F66FF9D7 H: Dropped 102 back-facing hits, 246 non-clustered hits during the previous tracking session
+Mon Aug 21 2023 16:30:25.017 [Info] - lighthouse: Stopped tracking with universe 1692602842
+Mon Aug 21 2023 16:30:25.021 [Info] - Failed to read chaperone file from C:\Program Files (x86)\Steam\config\chaperone_info.vrchap
+Mon Aug 21 2023 16:30:25.021 [Info] - Failed to update shared data
+Mon Aug 21 2023 16:30:25.021 [Info] - viveVR: VREvent_ChaperoneFlushCache
+Mon Aug 21 2023 16:30:25.032 [Info] - Clearing dashboard transform because ChaperoneUniverseHasChanged (old 1692602842 new 0)
+Mon Aug 21 2023 16:30:25.229 [Info] - [Status Warning Added LHR-F66FF9D7 ???(0)] ?? ?...
+Mon Aug 21 2023 16:30:25.229 [Info] - [Status Warning Added LHB-5B7C0C2C ??? ????(2)] ?? ?...
+Mon Aug 21 2023 16:30:25.229 [Info] - [System] Unknown Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Connecting'.
+Mon Aug 21 2023 16:30:32.297 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:32.444 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:30:33.199 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 575/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:33.199 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:34.832 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:34.968 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:30:37.845 [Info] - lighthouse: LHR-F66FF9D7 H: framer disambiguator provided base configuration. Rotor count: 2
+Mon Aug 21 2023 16:30:37.845 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected tdm
+Mon Aug 21 2023 16:30:38.110 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 713/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:38.110 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:39.923 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:40.057 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:30:40.123 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 518/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:40.123 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:41.984 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:42.128 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:30:43.453 [Info] - 0 - entering standby
+Mon Aug 21 2023 16:30:43.453 [Info] - viveVR: VREvent_EnterStandbyMode index = 0
+Mon Aug 21 2023 16:30:45.007 [Info] - lighthouse: LHR-F66FF9D7 H: framer disambiguator provided base configuration. Rotor count: 2
+Mon Aug 21 2023 16:30:45.007 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected tdm
+Mon Aug 21 2023 16:30:45.021 [Info] - lighthouse: LHR-F66FF9D7 H: No optical frames in past 5 seconds
+Mon Aug 21 2023 16:30:49.404 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 2178/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:49.404 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:50.022 [Info] - lighthouse: LHR-F66FF9D7 H: Optical frames received again...
+Mon Aug 21 2023 16:30:50.216 [Info] - 0 - leaving standby
+Mon Aug 21 2023 16:30:50.218 [Info] - viveVR: VREvent_LeaveStandbyMode index = 0
+Mon Aug 21 2023 16:30:50.734 [Info] - Clearing dashboard transform because TrackedDeviceUserInteractionStarted
+Mon Aug 21 2023 16:30:51.381 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:51.924 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 579/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:51.924 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:53.801 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:53.981 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:30:54.047 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 725/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:54.047 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:55.023 [Info] - lighthouse: LHR-F66FF9D7 H: No optical frames in past 5 seconds
+Mon Aug 21 2023 16:30:55.843 [Info] - [System] Runtime: 1690491041 250820  SteamVR
+Mon Aug 21 2023 16:30:55.931 [Info] - viveVR: Analog gain [130]
+Mon Aug 21 2023 16:30:55.941 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:56.072 [Info] - [Settings] Save Json Settings to C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Mon Aug 21 2023 16:30:56.147 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 785/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:56.147 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:30:58.030 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:30:58.178 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:30:58.280 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 772/s, enabling Sync on Beam
+Mon Aug 21 2023 16:30:58.280 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:00.137 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:00.275 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:31:00.342 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 765/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:00.342 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:02.241 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:02.701 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1461/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:02.701 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:04.658 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:04.846 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1685/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:04.846 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:06.789 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:06.991 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1580/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:06.991 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:08.898 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:09.054 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1309/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:09.055 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:10.990 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:11.142 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1479/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:11.142 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:13.067 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:13.226 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 988/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:13.226 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:15.151 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:15.319 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1148/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:15.319 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:17.244 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:17.636 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:31:17.642 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1238/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:17.642 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:19.571 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:19.709 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:31:20.627 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 884/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:20.627 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:22.540 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:22.754 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 808/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:22.754 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:24.644 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:24.854 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 876/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:24.854 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:26.737 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:26.953 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 913/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:26.953 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:28.843 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:29.017 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1243/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:29.017 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:30.914 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:31.146 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1223/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:31.146 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:33.010 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:33.302 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:31:33.351 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 759/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:33.351 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:33.506 [Info] - 0 - entering standby
+Mon Aug 21 2023 16:31:33.506 [Info] - viveVR: VREvent_EnterStandbyMode index = 0
+Mon Aug 21 2023 16:31:35.233 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:35.448 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1076/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:35.448 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:37.319 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:37.549 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 908/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:37.549 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:39.434 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:39.598 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1228/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:39.598 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:41.501 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:41.762 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:31:41.868 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 622/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:41.868 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:43.773 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:43.933 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1014/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:43.933 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:45.835 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:46.009 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 778/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:46.009 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:47.944 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:48.164 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1200/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:48.164 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:50.062 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:50.254 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1006/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:50.254 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:52.151 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:52.433 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 953/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:52.437 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:54.321 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:54.527 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1077/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:54.527 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:56.414 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:56.582 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:31:56.634 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 876/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:56.634 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:31:58.530 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:31:58.724 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 981/s, enabling Sync on Beam
+Mon Aug 21 2023 16:31:58.724 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:00.624 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:00.830 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1089/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:00.830 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:02.714 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:03.006 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:32:03.056 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 842/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:03.056 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:04.967 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:05.223 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 631/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:05.223 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:07.131 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:07.349 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 936/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:07.349 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:09.242 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:09.450 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 832/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:09.450 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:11.340 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:11.481 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:32:11.551 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1124/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:11.551 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:13.426 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:13.656 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 888/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:13.656 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:15.533 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:15.819 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 419/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:15.819 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:17.722 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:17.917 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1025/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:17.917 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:19.804 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:19.990 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 847/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:19.990 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:21.892 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:22.098 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 774/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:22.098 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:23.984 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:24.205 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 773/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:24.205 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:26.091 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:26.455 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 500/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:26.455 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:28.352 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:28.534 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1044/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:28.534 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:30.436 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:30.652 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 862/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:30.652 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:32.530 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:32.701 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1181/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:32.701 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:34.602 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:34.812 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 900/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:34.812 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:36.705 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:36.861 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1115/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:36.861 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:38.767 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:38.973 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 930/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:38.973 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:40.863 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:41.032 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:32:41.056 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1087/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:41.056 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:42.958 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:43.168 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 980/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:43.168 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:45.040 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:45.262 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 786/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:45.262 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:47.149 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:47.323 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1097/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:47.323 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:49.218 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:49.440 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1157/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:49.440 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:51.316 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:51.550 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1138/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:51.550 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:53.416 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:53.837 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:32:53.857 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 769/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:53.857 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:55.760 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:55.978 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 847/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:55.978 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:57.861 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:32:58.125 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 763/s, enabling Sync on Beam
+Mon Aug 21 2023 16:32:58.125 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:32:59.982 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:00.186 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1019/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:00.186 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:02.055 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:02.304 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 814/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:02.304 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:04.198 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:04.355 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 991/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:04.355 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:06.260 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:06.464 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1221/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:06.464 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:08.332 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:08.552 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1364/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:08.552 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:10.406 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:10.659 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 970/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:10.659 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:12.538 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:12.710 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1053/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:12.710 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:14.613 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:14.829 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 904/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:14.829 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:16.707 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:16.916 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1236/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:16.916 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:18.807 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:18.993 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 868/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:18.993 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:20.878 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:21.187 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 761/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:21.187 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:23.085 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:23.300 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1109/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:23.300 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:25.159 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:25.382 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 958/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:25.382 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:27.261 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:27.455 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 884/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:27.455 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:29.364 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:29.571 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1092/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:29.571 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:41.912 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:42.083 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 908/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:42.083 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:33:43.980 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:33:44.138 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:33:44.272 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 453/s, enabling Sync on Beam
+Mon Aug 21 2023 16:33:44.272 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:34:41.120 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 787/s, enabling Sync on Beam
+Mon Aug 21 2023 16:34:41.120 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:34:43.030 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:34:43.294 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:34:43.306 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 527/s, enabling Sync on Beam
+Mon Aug 21 2023 16:34:43.306 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:34:45.221 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:34:45.483 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:34:45.577 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 825/s, enabling Sync on Beam
+Mon Aug 21 2023 16:34:45.577 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:22.974 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:23.190 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1161/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:23.190 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:25.065 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:25.381 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 596/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:25.381 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:35.642 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:35.858 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1014/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:35.858 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:37.729 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:37.964 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 924/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:37.964 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:39.831 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:40.067 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 926/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:40.067 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:41.948 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:42.169 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 959/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:42.169 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:44.047 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:44.363 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 617/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:44.363 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:50.741 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 792/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:50.741 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:52.630 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:52.792 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:35:52.836 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1041/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:52.836 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:35:54.725 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:35:54.893 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:35:54.970 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1027/s, enabling Sync on Beam
+Mon Aug 21 2023 16:35:54.970 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:36.863 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:37.075 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1134/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:37.075 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:38.947 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:39.179 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 843/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:39.179 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:41.041 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:41.263 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 852/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:41.263 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:43.139 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:43.351 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 787/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:43.351 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:45.248 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:45.460 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1257/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:45.460 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:49.647 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1115/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:49.647 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:51.519 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:51.759 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 950/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:51.759 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:53.639 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:53.862 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 997/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:53.862 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:55.738 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:55.962 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1161/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:55.962 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:57.833 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:36:58.063 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1094/s, enabling Sync on Beam
+Mon Aug 21 2023 16:36:58.063 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:36:59.947 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:00.219 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:37:00.265 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 478/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:00.265 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:02.156 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:02.364 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 748/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:02.364 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:04.258 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:08.666 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 933/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:08.666 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:10.550 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:10.730 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 765/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:10.730 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:12.636 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:12.860 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 930/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:12.860 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:21.058 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:21.388 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 542/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:21.388 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:23.287 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:23.465 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 914/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:23.465 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:25.372 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:25.580 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 806/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:25.580 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:40.118 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:40.319 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 693/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:40.319 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:42.212 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:42.368 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 619/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:42.368 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:37:44.280 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:37:44.473 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 832/s, enabling Sync on Beam
+Mon Aug 21 2023 16:37:44.473 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:07.693 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:08.026 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 427/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:08.026 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:09.918 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:10.054 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:38:10.167 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1140/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:10.167 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:12.000 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:12.272 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 771/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:12.272 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:26.987 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:27.267 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 800/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:27.267 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:29.108 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:29.366 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 933/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:29.366 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:31.189 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:31.395 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 889/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:31.395 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:33.268 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:33.522 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1000/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:33.522 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:35.384 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:35.674 [Info] - lighthouse: LHR-F66FF9D7 H: tdm sync acquired
+Mon Aug 21 2023 16:38:35.674 [Info] - lighthouse: LHR-F66FF9D7 H: TDM supports max of 2 basestations.
+Mon Aug 21 2023 16:38:35.931 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 466/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:35.931 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:37.788 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:38.118 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 474/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:38.118 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:39.957 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:40.207 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 876/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:40.207 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:42.053 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:42.317 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1104/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:42.317 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:44.128 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:44.345 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 1073/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:44.345 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
+Mon Aug 21 2023 16:38:48.286 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect Restart, primary: tdm, alt: framer.  SensorType 6
+Mon Aug 21 2023 16:38:48.516 [Info] - lighthouse: LHR-F66FF9D7 H: Saw demod rate 918/s, enabling Sync on Beam
+Mon Aug 21 2023 16:38:48.516 [Info] - lighthouse: LHR-F66FF9D7 H: SwSyncDetect selected synconbeam
